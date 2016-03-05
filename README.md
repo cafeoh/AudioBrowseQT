@@ -1,5 +1,19 @@
-# AudioBrowseQT
+AudioBrowseQT
+=============
+
+#### PyQt test project ####
 Simple Audible.com scraping and listing program.
+
+### Dependencies ###
+
+[python-qt4](https://www.riverbankcomputing.com/software/pyqt/download)
+[python-requests](http://docs.python-guide.org/en/latest/starting/installation/)
+
+### Usage ###
+
+Simply run `./audiobrowse`
+
+The program will scrape the 10 first pages of Audible.com/newreleases and show them in a table.
 
 #### Why even bother, Audible.com has a great web interface already 1000x better than yours!
 To get familiar with PyQT. I've got an idea or two on how to turn this into a proper
