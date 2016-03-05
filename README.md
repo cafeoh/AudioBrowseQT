@@ -7,7 +7,7 @@ AudioBrowseQT
 
 [python-qt4](https://www.riverbankcomputing.com/software/pyqt/download)
 
-[python-requests](http://docs.python-guide.org/en/latest/starting/installation/)
+[python-requests](http://docs.python-requests.org/en/master/user/install/)
 
 ### Usage ###
 
