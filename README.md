@@ -1,7 +1,7 @@
 AudioBrowseQT
 =============
 
-#### Simple (read imcomplete) Audible.com scraping and listing program. ####
+#### Simple WIP Audible.com scraping and listing program. ####
 
 ### Dependencies ###
 
