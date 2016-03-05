@@ -13,7 +13,7 @@ AudioBrowseQT
 
 Simply run `./audiobrowse`
 
-The program will scrape the 10 first pages of `http://Audible.com/newreleases` and show them in a table.
+The program will scrape the 10 first pages of http://Audible.com/newreleases and show them in a table.
 
 #### Why even bother, Audible.com already has a great interface!
 To get familiar with PyQt again. I've got an idea or two on how to turn this into a proper
