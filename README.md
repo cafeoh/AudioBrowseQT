@@ -3,7 +3,7 @@ AudioBrowseQT
 
 #### Simple WIP Audible.com scraping and listing program. ####
 
-[[https://github.com/cafeoh/AudioBrowseQT/blob/master/img/audiobrowsescr.png|alt=screenshot]]
+[[https://raw.githubusercontent.com/cafeoh/AudioBrowseQT/master/img/audiobrowsescr.png|alt=screenshot]]
 
 ### Dependencies ###
 
