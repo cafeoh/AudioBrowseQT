@@ -3,6 +3,8 @@ AudioBrowseQT
 
 #### Simple WIP Audible.com scraping and listing program. ####
 
+[[https://github.com/cafeoh/AudioBrowseQT/blob/master/img/audiobrowsescr.png|alt=screenshot]]
+
 ### Dependencies ###
 
 [python-qt4](https://www.riverbankcomputing.com/software/pyqt/download)
